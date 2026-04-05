@@ -1,4 +1,6 @@
 #authors: Oscar Paredes and Rachit ALeti
+$ pip install streamlit
+$ streamlit hello
 from src.preprocess import load_and_preprocess
 from src.logistic_model import run_logistic
 from src.knn_model import run_knn
