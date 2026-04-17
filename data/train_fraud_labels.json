@@ -1,0 +1,4002 @@
+[
+  {
+    "transaction_id": 16039869,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13620032,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22213299,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22885547,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10736071,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20286077,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14601798,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11127020,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18576656,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18521808,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16560594,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16107879,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21197433,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17876581,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20384176,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23044103,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22900172,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11759820,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7829726,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20988800,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8392747,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22366084,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16149054,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14873465,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16593419,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17734654,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8122643,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16820907,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21938760,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20141121,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17840615,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13978630,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16221595,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18238710,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17254052,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18103718,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22987750,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15411330,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16443240,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7921675,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16997103,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21682055,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13749298,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19597105,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18305626,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22258001,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21940147,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16651005,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7592381,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23042225,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10610340,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20519057,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13172352,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17200672,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11530359,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8628470,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7629975,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8648888,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16399429,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11399595,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13560609,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10631936,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8118666,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21861500,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10333974,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8320302,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18182782,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15404244,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13722870,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19570558,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23473687,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7972488,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23674598,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 9311297,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20585382,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21993125,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12194306,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10948845,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18378698,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16897759,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19372817,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16958595,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21022185,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16501238,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18806165,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11412677,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16514559,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13705052,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10949272,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23702805,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18684722,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10804274,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21303817,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22182965,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15410504,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14071749,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9841822,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10904620,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17389247,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15835610,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12158073,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13206161,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13113217,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18358626,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15231658,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18743327,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22053836,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18619025,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18498680,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10184204,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22593942,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11280223,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7775009,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21576178,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17157229,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16892147,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17347283,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22457345,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21448687,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23496624,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17531402,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23302188,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21957260,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16527830,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13219582,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22776194,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11702220,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8541498,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15111313,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10891185,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21793417,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23336626,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13522250,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18843344,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19511092,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18488975,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17623900,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10600464,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16356361,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20872400,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17604977,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8450770,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9342646,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10681683,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18594545,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23082687,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14641303,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11023387,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23350427,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13431570,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22439209,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17613656,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12104913,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7709431,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22386296,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13852943,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7592537,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22715506,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22448605,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11374662,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22717788,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22355691,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11141240,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15796035,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14531013,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21211990,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7541624,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19879985,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21178842,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7892110,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16641081,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17251257,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17451455,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7668210,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23638716,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21582679,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20628123,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17767833,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16937425,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15379795,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23633565,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14674291,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8520563,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13667697,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20762453,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23685927,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22772725,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17755058,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12756813,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21331825,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 9598323,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14984445,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21566059,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23066083,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8465945,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20603419,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18597948,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7610269,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22357986,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13822292,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16412576,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8588021,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12614476,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22230043,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13704764,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17404853,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10714067,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18249131,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17085344,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17059961,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13688401,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7669456,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16754173,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15317767,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12166015,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17517414,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13216816,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7949113,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19916731,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 9746422,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20727319,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10884215,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20886789,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14207046,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11741063,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22438872,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9423679,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20471863,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11581302,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20309354,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14198563,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9610362,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23396193,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13298248,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7944211,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17107887,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7621676,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8825959,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8740957,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16800956,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21199287,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17898326,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16362744,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20794701,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20489232,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18213428,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18325757,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21281903,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13919606,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18655477,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23056509,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9634173,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19942901,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16849268,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11039825,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17123410,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22636617,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20678422,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17971909,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17997498,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9713953,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18654076,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23672333,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16004941,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16270435,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20951209,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21034299,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16518733,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8781357,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22045660,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16052901,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20922902,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19408619,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8242245,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12456318,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17624520,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16136755,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10298089,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13459639,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13698139,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18163849,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20867948,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18686180,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13072923,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16495499,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11063016,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22812130,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7836183,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10845623,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14540691,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18071484,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16833285,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19527351,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18279085,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22447253,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20601998,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14942805,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8771487,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18794808,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11162986,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18053661,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23440203,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13181441,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8305406,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19003928,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14918032,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17800159,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21540022,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 9792433,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22143289,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 9308901,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18976721,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21375406,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11721914,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17637365,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22396484,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20806788,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18195465,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20492689,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8333369,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14238299,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22835281,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18431615,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9985226,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17097561,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13185120,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17112183,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20516846,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9963138,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11416577,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23327918,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20749346,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17310944,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15168851,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17244659,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13745799,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12358144,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15948660,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20313610,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14914911,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7806537,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10891976,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15973640,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16144316,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22904416,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18424174,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8796143,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20725205,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14112544,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18657763,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7916279,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22939403,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11661427,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16144155,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8045319,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18007859,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16497471,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13250438,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16929516,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8057699,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15931838,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9257186,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13111159,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17842081,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11384022,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8637428,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8346755,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7805260,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16011942,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16724341,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11109278,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13189111,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8337127,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23156536,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8299570,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13812292,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16256939,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17380756,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7838308,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10542631,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17932047,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16958578,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11672349,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17656302,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23397120,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22571956,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15529870,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8258971,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21778511,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7826436,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16561122,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17767516,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17603305,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16824103,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13672482,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16446035,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23036212,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18805090,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8008870,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17014309,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21069426,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17810178,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17295291,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14004950,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7892096,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13161701,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23215429,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8577826,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20654024,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11197938,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18727163,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14653420,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19941116,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18006632,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16127356,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10849421,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14916783,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16138236,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10506211,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23355002,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17163939,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16127660,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7798262,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21454932,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7620821,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23469457,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8421125,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23209025,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18544502,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17089777,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7616253,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12388035,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11260448,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17314690,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20819157,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16243276,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12400915,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18173294,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17565841,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12206584,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8490351,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10725136,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 9628768,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21034109,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8144489,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20292300,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18786802,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16464287,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11615868,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18066351,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15843518,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16391621,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8766594,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22547636,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11539770,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9752523,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18640742,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10747553,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16989864,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22046513,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13845526,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7650121,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18855083,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20734695,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16897311,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18114697,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23665932,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23206823,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12239536,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15890873,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8387206,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7720382,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22555597,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17271806,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23638899,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15280634,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11236415,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20988768,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20122870,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12027209,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21001460,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12360230,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17669593,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20923883,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14859267,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15949630,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23488630,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18598033,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13918159,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22178124,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14025305,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13566890,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7785879,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23370407,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17270644,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13781703,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23356188,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14135598,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16809466,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17726766,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21830278,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8693775,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11106382,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23303264,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18474485,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14591818,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23658787,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22415555,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8734669,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23593568,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23672241,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14488902,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18728873,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16791331,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7989198,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20166863,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22125265,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11009225,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21253762,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8479704,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13267402,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10662694,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22080384,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17448638,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17516500,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10483122,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17070677,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17832982,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17852944,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13465232,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21201488,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17721022,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21715670,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8303700,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14421885,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7852947,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8811347,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8331937,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9544057,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22976971,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17379061,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8524144,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16537438,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16126060,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8802402,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14036609,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8116891,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17050161,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8855504,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14107746,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13653379,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21268165,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16874815,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17866656,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10584998,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15358508,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14244038,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22537312,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22046992,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20947332,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17931449,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19923090,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20301608,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12981000,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14102488,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11322063,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10411809,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22480994,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16436482,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23257886,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8977890,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12392605,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15512008,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23363461,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17474331,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15170863,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7846057,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20784642,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18214055,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15212482,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18587350,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8783186,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13216098,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19204253,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23047500,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13500879,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15321820,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20244758,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7684298,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15972010,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13213652,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21865169,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23568098,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12428505,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11327409,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17702869,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8694565,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16282258,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8591828,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8727420,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17800528,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14202161,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18607294,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7883880,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10163914,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15858166,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13119256,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7903961,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7803659,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16500096,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22707013,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18653247,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11585819,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17387678,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12321662,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11541409,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20237757,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18042436,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15193829,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21640120,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17889124,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7545651,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15800312,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17539102,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21563934,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21806468,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7586277,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23513844,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21388353,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17830392,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13743832,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13178257,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7916065,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20898528,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21566950,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23168794,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16366022,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18200652,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16812689,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18484339,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8292186,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17324891,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17955428,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22351547,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8002814,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14047132,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18515512,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18416490,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20792197,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13386452,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20513462,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12596882,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19961226,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18302094,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21255995,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17698881,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18544790,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16025174,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22603738,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22117655,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10700950,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15167823,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18333089,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11158037,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7933371,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8736241,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13933736,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21629841,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22073768,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23267134,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8687003,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17245876,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18423602,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15688631,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13522685,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16275277,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21244142,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22177281,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13667888,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8360686,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12871049,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21990019,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14320957,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13815417,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11357118,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7731973,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17024335,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9629046,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13517365,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10712160,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21395139,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17573548,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18365809,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17440913,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10252226,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10628394,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19963412,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11198522,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17033060,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16135358,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15373640,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19669671,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15014494,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20758190,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19174350,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8563159,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17183626,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8584182,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12798736,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23097836,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16816842,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16882263,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22235457,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13305583,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20621748,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17722833,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17235314,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15506731,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7609381,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14139258,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13628516,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13435968,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13505732,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16794325,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13561124,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23501991,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14167335,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16107504,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18228313,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8034445,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7685400,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13276920,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22583856,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14811091,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20320909,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18956240,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13318979,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20603785,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14242297,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15996322,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14135618,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22684913,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12218474,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17112147,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17908577,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23544056,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16427735,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 9761567,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 9629733,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19900295,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14627226,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14065467,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16480014,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16762554,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22885921,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8908962,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7669802,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7704773,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8706957,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16846100,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21266557,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13878668,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22977216,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9125445,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8467099,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11771701,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14046507,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13719023,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7673652,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17327929,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13318353,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14588360,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18820519,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19799440,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13942114,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14063759,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14732433,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7585515,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22998771,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8760157,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15073428,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12954990,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12355514,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10990886,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17009773,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8765947,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15175528,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20521441,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13585226,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10725098,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10021169,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11843782,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11773228,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17486561,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16066929,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23638535,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18053445,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22969779,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17402118,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16539292,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19861474,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17842987,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19524513,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19118042,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16145648,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21764811,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23177991,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22727427,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16663277,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17085239,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18176766,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11319379,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17258167,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11816568,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11015937,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22937756,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10763500,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15281206,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17886127,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23114210,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10837229,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17346243,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15919245,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20560789,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7670865,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20706153,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15244846,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13820370,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13305494,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20805362,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18409675,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21492555,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10327906,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22669169,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16878276,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10007809,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16042191,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8468143,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10297850,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19188840,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20083088,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10687569,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8994543,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13203453,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15378175,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13500614,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8782096,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22991042,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23511412,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23474306,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17826985,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8853261,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16196094,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23374412,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8598394,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13079571,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9023072,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22245013,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21579472,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13527030,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17432039,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8753556,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14107565,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20779271,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22148987,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 15842533,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18796770,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11421265,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16086155,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16411733,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8809564,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22545341,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12443570,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15286457,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18057576,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21559144,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7677210,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7568609,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15950937,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18761695,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17898855,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16342248,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17020343,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14075605,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20684404,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13536662,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21522628,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17689186,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18260937,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8480414,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10304569,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16428201,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12186457,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18062751,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21556936,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21729779,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10953063,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23032652,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8091513,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19920166,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10244989,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8932722,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13908859,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16720254,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8022101,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12378953,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14256561,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17156831,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 12332100,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20484344,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13961867,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20139078,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11176506,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13177919,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 18312356,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17623391,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11750288,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 19032963,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7658868,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21134529,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8934591,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10737508,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 19415207,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16674944,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17316891,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20551985,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14101635,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22176359,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 21880097,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20026893,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21170931,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 10860980,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17130546,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 11531785,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16336307,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16991649,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10794340,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 23057278,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22844283,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17721495,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10475492,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22906404,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17497953,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17963773,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7912619,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23157420,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 12252229,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21439600,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17713850,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9324702,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15182330,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20855893,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13527726,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 7944260,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16319859,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17717012,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17255517,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18287407,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21444626,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 17460926,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13368606,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20451558,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 15976704,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16203511,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 20424791,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16042225,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8976568,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 20660986,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22528686,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 17540721,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10518218,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 8062295,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22002256,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13504890,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 22911585,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23275173,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11008996,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14676384,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13405258,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13654778,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16576332,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 18052181,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21042240,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 21772368,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10643871,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 13855442,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8882950,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 23695552,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 7706114,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 8279182,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10860986,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 14315313,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 14110480,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 10288204,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 16969143,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 16921170,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 22300627,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 9450362,
+    "is_fraud": 0
+  },
+  {
+    "transaction_id": 13395499,
+    "is_fraud": 1
+  },
+  {
+    "transaction_id": 11469703,
+    "is_fraud": 1
+  }
+]
